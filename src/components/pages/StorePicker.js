@@ -56,7 +56,7 @@ const StorePicker = (props) => {
                 </label>
                 <span className={`${error ? '' : 'hidden'} text-red-600 text-left mb-3`}>Please enter the store name</span>
                 <img
-                    src='../assets/images/next.png'
+                    src='assets/images/next.png'
                     alt='next'
                     className='cursor-pointer w-10'
                     onClick={() => handleLogInOnClick()}

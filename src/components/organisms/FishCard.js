@@ -62,11 +62,11 @@ const FishCard = (props) => {
         <div className={`mb-3 mt-12 rounded-large border ${props.inventoryData && props.inventoryData.status === 'sold out' ? 'sold-out-bg' : ''}`}>
             <div className={`p-2 ${props.inventoryData && props.inventoryData.status === 'sold out' ? 'opacity-25 cursor-not-allowed' : ''}`}>
                 <div className='relative'>
-                    <img src='../assets/images/fish-icon.png' alt='fish' className='fish-position' />
+                    <img src='assets/images/fish-icon.png' alt='fish' className='fish-position' />
                     <p className='text-position text-white text-sm font-bold font-proxima-nova-alt'>${Number(props.inventoryData && props.inventoryData.price).toFixed(2)}</p>
                 </div>
                 <div className='flex'>
-                    <img src={`../assets/images/${props.inventoryData && props.inventoryData.imagePath}`} alt='fish' className='w-40 h-40 z-no rounded-large border-2 border-dotted border-black' />
+                    <img src={`assets/images/${props.inventoryData && props.inventoryData.imagePath}`} alt='fish' className='w-40 h-40 z-no rounded-large border-2 border-dotted border-black' />
                     <div className='w-full flex flex-col justify-between px-3 px-3'>
                         <div className=''>
                             <h3 className='font-carrinady font-bold uppercase text-4xl break-all'>{props.inventoryData && props.inventoryData.name}</h3>

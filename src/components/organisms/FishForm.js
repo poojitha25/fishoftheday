@@ -88,7 +88,7 @@ const FishForm = (props) => {
                 <div className='flex border-b border-black'>
                     <div className='flex-grow px-2'>
                         <label className='flex items-center h-full cursor-pointer' htmlFor='name'>
-                            <img src='../assets/images/map-fish-cleaning.png' alt='fish' className='mr-2 w-6' />
+                            <img src='assets/images/map-fish-cleaning.png' alt='fish' className='mr-2 w-6' />
                             <input type='text' placeholder='FISH NAME' value={name} className='bg-transparent focus:outline-none' onChange={(e) => handleChange(e, 'name')} />
                         </label>
                     </div>
