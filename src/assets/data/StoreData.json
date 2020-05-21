@@ -1,0 +1,78 @@
+{
+  "inventory": [
+    {
+      "id": "fish1",
+      "name": "pacific halibut",
+      "imagePath": "fish1.jpeg",
+      "description": "Everyones favorite white fish. We will cut it to the size you need and ship it.",
+      "price": "17.54",
+      "options": [
+        "fresh",
+        "sold out"
+      ],
+      "status": "fresh"
+    },
+    {
+      "id": "fish2",
+      "name": "lobster",
+      "imagePath": "fish2.jpeg",
+      "description": "These tender, mouth-watering beauties are a fantastic hit at any dinner party.",
+      "price": "32.00",
+      "options": [
+        "fresh",
+        "sold out"
+      ],
+      "status": "fresh"
+    },
+    {
+      "id": "fish3",
+      "name": "sea scallops",
+      "imagePath": "fish3.jpeg",
+      "description": "Big, sweet and tender. True dry-pack scallops from the icey waters of Alaska. About 8-10 per pound",
+      "price": "26.84",
+      "options": [
+        "fresh",
+        "sold out"
+      ],
+      "status": "sold out"
+    },
+    {
+      "id": "fish4",
+      "name": "mahi mahi",
+      "imagePath": "fish4.jpeg",
+      "description": "Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes.",
+      "price": "56.20",
+      "options": [
+        "fresh",
+        "sold out"
+      ],
+      "status": "fresh"
+    },
+    {
+      "id": "fish5",
+      "name": "King Crab",
+      "imagePath": "fish5.jpeg",
+      "description": "Crack these open and enjoy them plain or with one of our cocktail sauces.",
+      "price": "20.24",
+      "options": [
+        "fresh",
+        "sold out"
+      ],
+      "status": "sold out"
+    }
+  ],
+  "cart": [
+    {
+      "id": "fish1",
+      "name": "pacific halibut",
+      "price": "17.54",
+      "quantity": 1
+    },
+    {
+      "id": "fish3",
+      "name": "sea scallops",
+      "price": "16.84",
+      "quantity": 1
+    }
+  ]
+}

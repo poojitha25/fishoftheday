@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Archistico-Bold';
+    src: url('../fonts/Archistico Bold.ttf');
+    src: url('../fonts/Archistico Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Archistico-Simple';
+    src: url('../fonts/Archistico Simple.ttf');
+    src: url('../fonts/Archistico Simple.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Carrinady';
+    src: url('../fonts/carrinady.carrinady.ttf');
+    src: url('../fonts/carrinady.carrinady.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Phosphate-Inline';
+    src: url('../fonts/PhosphateInline.ttf');
+    src: url('../fonts/PhosphateInline.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Proxima-Nova-Alt-Regular';
+    src: url('../fonts/Proxima Nova Alt Regular.otf');
+    src: url('../fonts/Proxima Nova Alt Regular.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Proxima-Nova-Regular';
+    src: url('../fonts/Proxima Nova Alt Regular.otf');
+    src: url('../fonts/Proxima Nova Alt Regular.otf') format('truetype');
+}
