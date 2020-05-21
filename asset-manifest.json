@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fishoftheday/static/css/main.ab2a6059.chunk.css",
-    "main.js": "/fishoftheday/static/js/main.ca61696a.chunk.js",
-    "main.js.map": "/fishoftheday/static/js/main.ca61696a.chunk.js.map",
+    "main.js": "/fishoftheday/static/js/main.14e6357b.chunk.js",
+    "main.js.map": "/fishoftheday/static/js/main.14e6357b.chunk.js.map",
     "runtime-main.js": "/fishoftheday/static/js/runtime-main.059d1b0d.js",
     "runtime-main.js.map": "/fishoftheday/static/js/runtime-main.059d1b0d.js.map",
     "static/js/2.c6eafe4a.chunk.js": "/fishoftheday/static/js/2.c6eafe4a.chunk.js",
     "static/js/2.c6eafe4a.chunk.js.map": "/fishoftheday/static/js/2.c6eafe4a.chunk.js.map",
     "index.html": "/fishoftheday/index.html",
-    "precache-manifest.bfec2fc1f22d6d7666501bef93b37acd.js": "/fishoftheday/precache-manifest.bfec2fc1f22d6d7666501bef93b37acd.js",
+    "precache-manifest.1d102c1f119decb91a351240c61fad64.js": "/fishoftheday/precache-manifest.1d102c1f119decb91a351240c61fad64.js",
     "service-worker.js": "/fishoftheday/service-worker.js",
     "static/css/main.ab2a6059.chunk.css.map": "/fishoftheday/static/css/main.ab2a6059.chunk.css.map",
     "static/js/2.c6eafe4a.chunk.js.LICENSE.txt": "/fishoftheday/static/js/2.c6eafe4a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.059d1b0d.js",
     "static/js/2.c6eafe4a.chunk.js",
     "static/css/main.ab2a6059.chunk.css",
-    "static/js/main.ca61696a.chunk.js"
+    "static/js/main.14e6357b.chunk.js"
   ]
 }

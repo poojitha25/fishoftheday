@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "493dc2cffcd3c70642e85f3da86c8364",
+    "revision": "388090d0d91a59b2db152d6320c6c6f1",
     "url": "/fishoftheday/index.html"
   },
   {
-    "revision": "dd141882c417a669d65b",
+    "revision": "d48bd2576592ab68eb6b",
     "url": "/fishoftheday/static/css/main.ab2a6059.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fishoftheday/static/js/2.c6eafe4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd141882c417a669d65b",
-    "url": "/fishoftheday/static/js/main.ca61696a.chunk.js"
+    "revision": "d48bd2576592ab68eb6b",
+    "url": "/fishoftheday/static/js/main.14e6357b.chunk.js"
   },
   {
     "revision": "48a8dd1dcae770eb70c7",
