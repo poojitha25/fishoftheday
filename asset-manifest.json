@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fishoftheday/static/css/main.e760298b.chunk.css",
+    "main.js": "/fishoftheday/static/js/main.7686a8a7.chunk.js",
+    "main.js.map": "/fishoftheday/static/js/main.7686a8a7.chunk.js.map",
+    "runtime-main.js": "/fishoftheday/static/js/runtime-main.059d1b0d.js",
+    "runtime-main.js.map": "/fishoftheday/static/js/runtime-main.059d1b0d.js.map",
+    "static/js/2.b98e0ab1.chunk.js": "/fishoftheday/static/js/2.b98e0ab1.chunk.js",
+    "static/js/2.b98e0ab1.chunk.js.map": "/fishoftheday/static/js/2.b98e0ab1.chunk.js.map",
+    "index.html": "/fishoftheday/index.html",
+    "precache-manifest.2ca71ff6561e42e9ab359616cf5a6c74.js": "/fishoftheday/precache-manifest.2ca71ff6561e42e9ab359616cf5a6c74.js",
+    "service-worker.js": "/fishoftheday/service-worker.js",
+    "static/css/main.e760298b.chunk.css.map": "/fishoftheday/static/css/main.e760298b.chunk.css.map",
+    "static/js/2.b98e0ab1.chunk.js.LICENSE.txt": "/fishoftheday/static/js/2.b98e0ab1.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/fishoftheday/static/media/sold-out.6d9d1009.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.059d1b0d.js",
+    "static/js/2.b98e0ab1.chunk.js",
+    "static/css/main.e760298b.chunk.css",
+    "static/js/main.7686a8a7.chunk.js"
+  ]
+}
