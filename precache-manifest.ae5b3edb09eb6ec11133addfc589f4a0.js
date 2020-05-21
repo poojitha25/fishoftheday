@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e63b48d6bb7126a8a8d31954beca9cb1",
+    "revision": "7d80e2928e19bb6a14168abf25d416e9",
     "url": "/fishoftheday/index.html"
   },
   {
-    "revision": "e311ece0dda80744023c",
-    "url": "/fishoftheday/static/css/main.e760298b.chunk.css"
+    "revision": "c97f6283471f3894fef9",
+    "url": "/fishoftheday/static/css/main.ab2a6059.chunk.css"
   },
   {
     "revision": "a1c956e3eb8c568140be",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fishoftheday/static/js/2.b98e0ab1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e311ece0dda80744023c",
+    "revision": "c97f6283471f3894fef9",
     "url": "/fishoftheday/static/js/main.7686a8a7.chunk.js"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fishoftheday/static/media/Flaticon.24255023.ttf"
   },
   {
-    "revision": "43886ac0c580c13b33b22f44fa7f4de5",
-    "url": "/fishoftheday/static/media/Flaticon.43886ac0.svg"
+    "revision": "336972ff6e7caa0d4615899a2ca91c4f",
+    "url": "/fishoftheday/static/media/Flaticon.336972ff.svg"
   },
   {
     "revision": "61d3b0db05a084e3ec26a5100bbceea1",
